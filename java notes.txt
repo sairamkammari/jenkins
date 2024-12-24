@@ -1,0 +1,28 @@
+class EvenNumber{
+public static void main{
+int num = 10;
+System.out.println("Even numbers are");
+for(int num=0; num<=10;num++){
+if(num%2==0){
+System.out.println(num);
+}
+}
+}
+
+}
+
+
+byte - 1b
+short - 1b
+int - 4b
+char-2b
+long - 8b
+float - 4b
+double - 8b
+
+
+1. why char is 2 bytes oif memory
+2. what are different data types and their memory size
+3. difference between static and instance
+4. why static keyword using in java
+5. what is the difference between For loop and while loop
